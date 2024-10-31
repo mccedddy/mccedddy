@@ -5,16 +5,3 @@ I am a fresh graduate computer engineer specializing in web development. I have 
 **Visit:**
 - [**My Portfolio**](https://mccedddy.github.io/portfolio/)
 - [**My LinkedIn Profile**](https://www.linkedin.com/in/cedricmacallan/)
-
-# Skills
-
-**Languages and Frameworks**
-- HTML, CSS, JavaScript
-- React, SASS, Tailwind CSS, Bootstrap
-- Node.js, Express.js, PHP, Python
-- Flutter
-
-**Tools and Technologies**
-- Git & GitHub
-- MySQL, Firebase
-- Jest
