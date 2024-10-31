@@ -3,14 +3,13 @@
 I am a fresh graduate computer engineer specializing in web development. I have worked in both front-end and back-end development, with experience in SQL and NoSQL databases. I'm eager to learn and grow in the tech industry, and I'm always looking for opportunities to collaborate and innovate.
 
 **Visit:**
-[**My Portfolio**](https://mccedddy.github.io/portfolio/)
-
-[**LinkedIn**](https://www.linkedin.com/in/cedricmacallan/)
+- [**My Portfolio**](https://mccedddy.github.io/portfolio/)
+- [**My LinkedIn Profile**](https://www.linkedin.com/in/cedricmacallan/)
 
 # Skills
 
 **Languages and Frameworks**
-- HTML, CSS, JavaScript,
+- HTML, CSS, JavaScript
 - React, SASS, Tailwind CSS, Bootstrap
 - Node.js, Express.js, PHP, Python
 - Flutter
